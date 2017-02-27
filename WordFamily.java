@@ -2,11 +2,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/*name:Zhongzheng Xiang
- * Blackboard login:zxiang5
- * Course number.section:600.226.02
- * assignment number:P1
+/* author: XZZ
+ *
  * */
+
 public class WordFamily { //update after every guess 
 	int length;
 	private Map<String, ArrayList<String>> wordMap;
