@@ -1,7 +1,5 @@
-/*name:Zhongzheng Xiang
- * Blackboard login:zxiang5
- * Course number.section:600.226.02
- * assignment number:P1
+/* author: XZZ
+ * function: Guessing a chosen word in several times
  * */
 
 import java.util.ArrayList;
@@ -76,7 +74,6 @@ public class Game {
 			}
 			
 			//step3:result and restart
-//			String result="";
 			game.setCountOfGames(game.getCountOfGames()+1);
 			if(game.getCurrentList().contains(letter)){
 				game.setCountOfWin(game.getCountOfWin()+1);
