@@ -5,10 +5,8 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
-/*name:Zhongzheng Xiang
- * Blackboard login:zxiang5
- * Course number.section:600.226.02
- * assignment number:P1
+/* author: XZZ
+ *
  * */
 
 public class WordList {
